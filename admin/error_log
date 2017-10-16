@@ -1,0 +1,3 @@
+[28-May-2014 23:10:33 America/Denver] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home1/testUser/public_html/projects/admin/changePassword.php on line 112
+[28-May-2014 23:14:40 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home1/testUser/public_html/projects/admin/edit_item.php on line 113
+[28-May-2014 23:20:02 America/Denver] PHP Warning:  unlink(./images/22_Ferry Corsten - We Belong_front.jpg): No such file or directory in /home1/testUser/public_html/projects/admin/delete_item.php on line 105
